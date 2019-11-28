@@ -1,2 +1,2 @@
 # tp_memoire
-Barnabé Portier Hugo Prat-Capilla
+Barnabé Portier et Hugo Prat-Capilla
