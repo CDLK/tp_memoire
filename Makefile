@@ -2,7 +2,7 @@ CC=clang
 CFLAGS=-Wall -Werror -g -include my_memory.h
 
 PROGRAMS=vecteur_testbase matrice_testbase matrice_lineaire_testbase \
-         vecteur_testdynamique matrice_testdynamique \
+         vecteur_testdynamique \
          memory_testcpy memory_testmove \
          memory_testendianess
 

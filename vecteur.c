@@ -27,7 +27,6 @@ double *acces_vecteur(vecteur v, int i) {
     } else {
       return NULL;
     }
-
 }
 
 int taille_vecteur(vecteur v) {
